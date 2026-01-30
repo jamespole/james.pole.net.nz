@@ -4,7 +4,7 @@ This is the repository for *[james.pole.net.nz](https://james.pole.net.nz/)*.
 
 ## License
 
-Copyright © 2025 [James Anderson-Pole](james@pole.net.nz).
+Copyright © 2025, 2026 [James Anderson-Pole](james@pole.net.nz).
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
